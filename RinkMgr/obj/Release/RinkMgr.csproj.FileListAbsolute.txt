@@ -1,0 +1,9 @@
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\bin\Release\RinkMgr.exe.config
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\bin\Release\RinkMgr.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\bin\Release\RinkMgr.pdb
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\obj\Release\RinkMgr.csproj.AssemblyReference.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\obj\Release\RinkMgr.Properties.Resources.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\obj\Release\RinkMgr.csproj.GenerateResource.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\obj\Release\RinkMgr.csproj.CoreCompileInputs.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\obj\Release\RinkMgr.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\RinkMgr\obj\Release\RinkMgr.pdb

@@ -1,0 +1,62 @@
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.pdb
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Form1.resources
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Properties.Resources.resources
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.fmScoreCard.resources
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.exe
+C:\Users\Steve\AppData\Local\Temporary Projects\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.pdb
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.exe
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.pdb
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Form1.resources
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Properties.Resources.resources
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.fmScoreCard.resources
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.pdb
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScores.sdf
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe.config
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe.config
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.exe
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.pdb
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScores.sdf
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.pdb
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csprojResolveAssemblyReference.cache
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Form1.resources
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Properties.Resources.resources
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.fmScoreCard.resources
+C:\Users\steve\Dropbox\Personal\Bowls\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.GenerateResource.Cache
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScores.sdf
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe.config
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.pdb
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Form1.resources
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Properties.Resources.resources
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.fmScoreCard.resources
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.GenerateResource.cache
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.exe
+C:\Users\Steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.pdb
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.AssemblyReference.cache
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.CoreCompileInputs.cache
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.CopyComplete
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScores.sdf
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe.config
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\BowlsScoreViewer.pdb
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.AssemblyReference.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.exe.config
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.BSVForm.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.Properties.Resources.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.fmScoreCard.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.GenerateResource.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.csproj.CoreCompileInputs.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsSco.E81204BE.Up2Date
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\x86\Debug\BowlsScoreViewer.pdb

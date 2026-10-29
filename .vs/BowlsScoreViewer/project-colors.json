@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc8863b1-2699-4aa2-a289-a5aaa25b5cc0": {
+      "ProjectGuid": "cc8863b1-2699-4aa2-a289-a5aaa25b5cc0",
+      "DisplayName": "BowlsScoreViewer",
+      "ColorIndex": 0
+    },
+    "c7323aab-c5cb-4a6f-8560-6f81c75be6a0": {
+      "ProjectGuid": "c7323aab-c5cb-4a6f-8560-6f81c75be6a0",
+      "DisplayName": "MatchManager",
+      "ColorIndex": 1
+    },
+    "c0b5f891-25b8-40e0-a427-4c6624558d08": {
+      "ProjectGuid": "c0b5f891-25b8-40e0-a427-4c6624558d08",
+      "DisplayName": "RinkMgr",
+      "ColorIndex": 2
+    },
+    "5749dacc-24ff-4c0e-b79f-6e5cd46c3985": {
+      "ProjectGuid": "5749dacc-24ff-4c0e-b79f-6e5cd46c3985",
+      "DisplayName": "bsConsole",
+      "ColorIndex": 3
+    },
+    "06088e70-04c0-47c1-babe-32bc4a46a6f9": {
+      "ProjectGuid": "06088e70-04c0-47c1-babe-32bc4a46a6f9",
+      "DisplayName": "BowlsScoreBL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

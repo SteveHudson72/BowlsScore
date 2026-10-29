@@ -1,0 +1,9 @@
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\bin\Release\MatchManager.exe.config
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\bin\Release\MatchManager.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\bin\Release\MatchManager.pdb
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\obj\Release\MatchManager.csproj.AssemblyReference.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\obj\Release\MatchManager.Properties.Resources.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\obj\Release\MatchManager.csproj.GenerateResource.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\obj\Release\MatchManager.csproj.CoreCompileInputs.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\obj\Release\MatchManager.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\MatchManager\obj\Release\MatchManager.pdb

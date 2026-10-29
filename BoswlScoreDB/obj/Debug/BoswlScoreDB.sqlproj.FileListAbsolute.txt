@@ -1,0 +1,10 @@
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\bin\Debug\BoswlScoreDB.dacpac
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\bin\Debug\BoswlScoreDB.dll
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\bin\Debug\BoswlScoreDB.pdb
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\BoswlScoreDB.sqlproj.AssemblyReference.cache
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\BoswlScoreDB.dll
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\BoswlScoreDB.pdb
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\Model.xml
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\refactor.xml
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\postdeploy.sql
+C:\Users\steve\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Debug\predeploy.sql

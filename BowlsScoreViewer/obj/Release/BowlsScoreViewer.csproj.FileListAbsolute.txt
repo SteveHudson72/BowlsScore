@@ -1,0 +1,12 @@
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Release\BowlsScores.sdf
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Release\BowlsScoreViewer.exe.config
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Release\BowlsScoreViewer.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.csproj.AssemblyReference.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.BSVForm.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.Properties.Resources.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.fmScoreCard.resources
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.csproj.GenerateResource.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.csproj.CoreCompileInputs.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsSco.E81204BE.Up2Date
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreViewer\obj\Release\BowlsScoreViewer.exe

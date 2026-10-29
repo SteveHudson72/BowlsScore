@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\scorecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\scorecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\scorecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\scorecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\scorecard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\scorecard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|c:\\users\\steve.hudson\\dropbox\\projects\\bowlsscoreviewer\\bowlsscoreviewer\\bsvform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\bsvform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\bsvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\bsvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\bsvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\bsvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B5F891-25B8-40E0-A427-4C6624558D08}|RinkMgr\\RinkMgr.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\rinkmgr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B5F891-25B8-40E0-A427-4C6624558D08}|RinkMgr\\RinkMgr.csproj|solutionrelative:rinkmgr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\rink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\bowlsscoreviewer\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8863B1-2699-4AA2-A289-A5AAA25B5CC0}|BowlsScoreViewer\\BowlsScoreViewer.csproj|solutionrelative:bowlsscoreviewer\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7323AAB-C5CB-4A6F-8560-6F81C75BE6A0}|MatchManager\\MatchManager.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\matchmanager\\matchmgrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7323AAB-C5CB-4A6F-8560-6F81C75BE6A0}|MatchManager\\MatchManager.csproj|solutionrelative:matchmanager\\matchmgrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7323AAB-C5CB-4A6F-8560-6F81C75BE6A0}|MatchManager\\MatchManager.csproj|C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\matchmanager\\matchmgrform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7323AAB-C5CB-4A6F-8560-6F81C75BE6A0}|MatchManager\\MatchManager.csproj|solutionrelative:matchmanager\\matchmgrform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:124590791:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1620935559:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BSVForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\BSVForm.Designer.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\BSVForm.Designer.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\BSVForm.Designer.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\BSVForm.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T13:31:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreCard.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\ScoreCard.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\ScoreCard.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\ScoreCard.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\ScoreCard.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\ScoreCard.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\ScoreCard.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\ScoreCard.cs [Design]",
+              "RelativeToolTip": "BowlsScoreViewer\\ScoreCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rink.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\Rink.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\Rink.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\Rink.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\Rink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\RinkMgr\\Form1.cs",
+              "RelativeDocumentMoniker": "RinkMgr\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\RinkMgr\\Form1.cs [Design]",
+              "RelativeToolTip": "RinkMgr\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BSVForm.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\BSVForm.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\BSVForm.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\BSVForm.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\BSVForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BSVForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\BSVForm.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\BSVForm.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\BSVForm.cs [Design]",
+              "RelativeToolTip": "BowlsScoreViewer\\BSVForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreCard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\ScoreCard.Designer.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\ScoreCard.Designer.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\ScoreCard.Designer.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\ScoreCard.Designer.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAMwPUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:38:17.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\DGVPrinter.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\DGVPrinter.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAAAJYBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:34:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\Match.cs",
+              "RelativeDocumentMoniker": "BowlsScoreViewer\\Match.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\BowlsScoreViewer\\Match.cs",
+              "RelativeToolTip": "BowlsScoreViewer\\Match.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:35:05.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatchMgrForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\MatchManager\\MatchMgrForm.cs",
+              "RelativeDocumentMoniker": "MatchManager\\MatchMgrForm.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\MatchManager\\MatchMgrForm.cs [Design]",
+              "RelativeToolTip": "MatchManager\\MatchMgrForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MatchMgrForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\MatchManager\\MatchMgrForm.Designer.cs",
+              "RelativeDocumentMoniker": "MatchManager\\MatchMgrForm.Designer.cs",
+              "ToolTip": "C:\\Users\\steve.hudson\\Dropbox\\Projects\\BowlsScoreViewer\\MatchManager\\MatchMgrForm.Designer.cs",
+              "RelativeToolTip": "MatchManager\\MatchMgrForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:09:25.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\BowlsScores.sdf
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\BowlsScoreBL.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\BowlsScoreBL.pdb
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\BowlsScoreViewer.exe
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\BowlsScoreViewer.pdb
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\bin\Release\BowlsScoreViewer.exe.config
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\obj\Release\BowlsScoreBL.csproj.AssemblyReference.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\obj\Release\BowlsScoreBL.csproj.CoreCompileInputs.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\obj\Release\BowlsSco.1C27EF44.Up2Date
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\obj\Release\BowlsScoreBL.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BowlsScoreBL\obj\Release\BowlsScoreBL.pdb

@@ -1,0 +1,6 @@
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\bin\Release\BowlsScoreDB.dacpac
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\bin\Release\BoswlScoreDB.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\bin\Release\BoswlScoreDB.pdb
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Release\BowlsScoreDB.sqlproj.AssemblyReference.cache
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Release\BoswlScoreDB.dll
+C:\Users\steve.hudson\Dropbox\Projects\BowlsScoreViewer\BoswlScoreDB\obj\Release\BoswlScoreDB.pdb
